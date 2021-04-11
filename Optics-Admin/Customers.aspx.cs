@@ -23,7 +23,6 @@ namespace Optics_Admin
             if (!IsPostBack)
             {
                 LoadAllCustomer();
-
             }
         }
 
